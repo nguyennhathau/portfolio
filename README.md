@@ -1,3 +1,7 @@
+https://nguyennhathau.github.io/portfolio/
+
+website personal
+
 icon fa: npm install react-icons --save
 
 change default branch: https://github.com/nguyennhathau/portfolio/settings/branches
