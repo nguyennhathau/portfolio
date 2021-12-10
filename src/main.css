@@ -143,8 +143,8 @@ section.about-me {
 
 .about-me .list-icons {
   display: flex;
-  margin-left: 2em;
-  justify-content: space-around;
+  /* margin-left: 2em; */
+  justify-content: space-between;
 }
 
 /* skill */
