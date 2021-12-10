@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nguyennhathau/portfolio/static/css/main.2a6e1c76.chunk.css",
+    "main.js": "/nguyennhathau/portfolio/static/js/main.48aa6aa1.chunk.js",
+    "main.js.map": "/nguyennhathau/portfolio/static/js/main.48aa6aa1.chunk.js.map",
+    "runtime-main.js": "/nguyennhathau/portfolio/static/js/runtime-main.6f291776.js",
+    "runtime-main.js.map": "/nguyennhathau/portfolio/static/js/runtime-main.6f291776.js.map",
+    "static/js/2.e3b1192d.chunk.js": "/nguyennhathau/portfolio/static/js/2.e3b1192d.chunk.js",
+    "static/js/2.e3b1192d.chunk.js.map": "/nguyennhathau/portfolio/static/js/2.e3b1192d.chunk.js.map",
+    "static/js/3.b9cd172f.chunk.js": "/nguyennhathau/portfolio/static/js/3.b9cd172f.chunk.js",
+    "static/js/3.b9cd172f.chunk.js.map": "/nguyennhathau/portfolio/static/js/3.b9cd172f.chunk.js.map",
+    "index.html": "/nguyennhathau/portfolio/index.html",
+    "static/css/main.2a6e1c76.chunk.css.map": "/nguyennhathau/portfolio/static/css/main.2a6e1c76.chunk.css.map",
+    "static/js/2.e3b1192d.chunk.js.LICENSE.txt": "/nguyennhathau/portfolio/static/js/2.e3b1192d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nguyennhathau/portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f291776.js",
+    "static/js/2.e3b1192d.chunk.js",
+    "static/css/main.2a6e1c76.chunk.css",
+    "static/js/main.48aa6aa1.chunk.js"
+  ]
+}
